@@ -2,7 +2,7 @@
 
 Um jogo de tiro em primeira pessoa (FPS) 3D completo, rodando diretamente no navegador web usando **HTML5, JavaScript e Three.js**. O jogo conta com um cenário pós-apocalíptico de cidade abandonada, sistema de ondas de inimigos, inteligência artificial de perseguição, mini-mapa (radar), sistema de loot/drops e uma loja interativa!
 
-Desenvolvido 100% em conjunto com **Gemini** 🤖✨
+Desenvolvido com **Gemini** e melhorado po **Saloma0**🤖✨
 
 ---
 
@@ -50,6 +50,4 @@ Desenvolvido 100% em conjunto com **Gemini** 🤖✨
 
 ## 🤖 Créditos
 
-Este projeto foi criado e estruturado do zero através de prompts e colaboração com a inteligência artificial **Gemini**. 
-
-Se curtiu o projeto, deixe uma ⭐ no repositório!
+**Gemini**. 
